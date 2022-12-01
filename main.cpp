@@ -1,5 +1,5 @@
 #include <iostream>
-#include "funzione.h"
+#include "lib.h"
 using namespace std;
 
 int main() {
