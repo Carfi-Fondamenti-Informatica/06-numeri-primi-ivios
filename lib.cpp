@@ -1,4 +1,4 @@
-#include "funzione.h"
+#include "lib.h"
 
 bool verifica (int a){
     int i = 2;
